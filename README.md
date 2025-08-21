@@ -9,28 +9,30 @@ I’m a **Full-Stack Developer** and **competitive programmer** with strong foun
 ## 🔧 Tech Stack  
 
 **Languages:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)  
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=radix-ui&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=radix-ui&logoColor=fff)  
 
 **Backend:**  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=fff)  ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=swagger&logoColor=fff)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socket.io&logoColor=fff)  ![Yjs](https://img.shields.io/badge/-Yjs-6C63FF?style=flat&logo=databricks&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=fff)  ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=swagger&logoColor=fff)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=fff)  ![Yjs](https://img.shields.io/badge/-Yjs-6C63FF?style=for-the-badge&logo=databricks&logoColor=fff)  
 
 **Databases & Storage:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=fff)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)  ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=fff)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)  ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=fff)  
 
 **DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=fff)  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=fff)  ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=fff)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)  ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)  ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=fff)  
 
 
 ---
-
+ 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harish-Naruto&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Naruto&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Naruto&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Harish-Naruto&theme=tokyonight&hide_border=true&card_width=500)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Naruto&show_icons=true&theme=tokyonight&hide_border=true&card_width=500)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Naruto&layout=compact&theme=tokyonight&hide_border=true&card_width=500)  
 
 ---
 
@@ -45,9 +47,6 @@ I’m a **Full-Stack Developer** and **competitive programmer** with strong foun
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/harish-narote-600717339)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/Harish-Naruto)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=fff)](https://leetcode.com/u/leandraw005/)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=fff)](https://www.codechef.com/users/mr_forgotten)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/harish-narote-600717339)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Harish-Naruto)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/u/leandraw005/)  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/mr_forgotten)  
 
 ---
