@@ -15,7 +15,8 @@ I’m a **Full-Stack Developer** and **competitive programmer** with strong foun
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=radix-ui&logoColor=fff)  
 
 **Backend:**  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=fff)  ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=swagger&logoColor=fff)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=fff)  ![Yjs](https://img.shields.io/badge/-Yjs-6C63FF?style=for-the-badge&logo=databricks&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+   ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=swagger&logoColor=fff)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=fff)  ![Yjs](https://img.shields.io/badge/-Yjs-6C63FF?style=for-the-badge&logo=databricks&logoColor=fff)  
 
 **Databases & Storage:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)  ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=fff)  
@@ -41,12 +42,13 @@ I’m a **Full-Stack Developer** and **competitive programmer** with strong foun
 
 - ⚡ Building scalable **real-time apps** (WebRTC, WebSockets, Distributed Systems)  
 - 📚 Mastering **System Design & Advanced DSA**  
-- 🤝 Open-source collaboration  
+- 🤝 Open-source collaboration
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/harish-narote-600717339)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Harish-Naruto)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/u/leandraw005/)  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/mr_forgotten)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/harish-narote-600717339) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:harishnarote7@gmail.com)
+ [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/u/leandraw005/)  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/mr_forgotten)
 
 ---
