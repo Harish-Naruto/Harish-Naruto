@@ -1,22 +1,30 @@
 # Hi there, I'm Harish Narote 👋  
 
-### 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast  
+### 🚀 Full-Stack Developer | 💡 Competitive Programmer | ⚡ Tech Enthusiast  
 
-I’m passionate about building scalable web applications and exploring modern technologies.  
-From crafting responsive frontends to designing robust backends, I love the full journey of software development.  
+I’m a **Full-Stack Developer** and **competitive programmer** with strong foundations in **Data Structures & Algorithms**, modern web technologies, and scalable system design.  
+
+I actively solve problems on **LeetCode (1200+)** and **CodeChef (1300+)**, with **500+ problems solved** across multiple platforms.  
 
 ---
 
 ## 🔧 Tech Stack  
 
+**Languages:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)  
+
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=radix-ui&logoColor=fff)  
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=fff)  ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=swagger&logoColor=fff)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=socket.io&logoColor=fff)  ![Yjs](https://img.shields.io/badge/-Yjs-6C63FF?style=flat&logo=databricks&logoColor=fff)  
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)  
+**Databases & Storage:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=fff)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)  ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=fff)  
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=fff)  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=fff)  ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat&logo=pnpm&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=fff)  
+
 
 ---
 
@@ -28,17 +36,20 @@ From crafting responsive frontends to designing robust backends, I love the full
 
 ---
 
+
 ## 🌱 Currently Exploring  
 
-- ⚡ Building scalable **real-time applications**  
-- 🔍 Exploring **WebRTC & distributed systems**  
-- 🎯 Improving problem-solving skills with **DSA**  
+- ⚡ Building scalable **real-time apps** (WebRTC, WebSockets, Distributed Systems)  
+- 📚 Mastering **System Design & Advanced DSA**  
+- 🤝 Open-source collaboration  
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harish-narote-600717339/)) 
-[![]]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/harish-narote-600717339)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/Harish-Naruto)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=fff)](https://leetcode.com/u/leandraw005/)  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=fff)](https://www.codechef.com/users/mr_forgotten)  
 
 ---
