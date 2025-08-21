@@ -4,8 +4,6 @@
 
 I’m a **Full-Stack Developer** and **competitive programmer** with strong foundations in **Data Structures & Algorithms**, modern web technologies, and scalable system design.  
 
-I actively solve problems on **LeetCode (1200+)** and **CodeChef (1300+)**, with **500+ problems solved** across multiple platforms.  
-
 ---
 
 ## 🔧 Tech Stack  
