@@ -20,14 +20,6 @@ From crafting responsive frontends to designing robust backends, I love the full
 
 ---
 
-## 📌 Featured Projects  
-
-- 🔗 [**Project 1**](#) – Short description of your project (Tech used)  
-- 🔗 [**Project 2**](#) – Short description of your project (Tech used)  
-- 🔗 [**Project 3**](#) – Short description of your project (Tech used)  
-
----
-
 ## 📊 GitHub Stats  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harish-Naruto&theme=tokyonight&hide_border=true)  
@@ -46,8 +38,7 @@ From crafting responsive frontends to designing robust backends, I love the full
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harish-narote-600717339/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harish-narote-600717339/)) 
+[![]]
 
 ---
-
-⭐️ From [Harish Narote](https://github.com/Harish-Naruto)
