@@ -29,8 +29,8 @@ I’m a **Full-Stack Developer** and **competitive programmer** with strong foun
  
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harish-Naruto&theme=tokyonight&hide_border=true&card_width=500)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Naruto&show_icons=true&theme=tokyonight&hide_border=true&card_width=500)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Naruto&layout=compact&theme=tokyonight&hide_border=true&card_width=500)  
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Harish-Naruto&theme=github-dark-blue)](https://git.io/streak-stats) ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-Naruto&theme=github_dark) 
+![Top lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-Naruto&theme=github_dark)
 
 ---
 
