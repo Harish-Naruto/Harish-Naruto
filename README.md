@@ -2,17 +2,17 @@
 
 ### 🚀 Full-Stack Developer | 💡 Competitive Programmer | ⚡ Tech Enthusiast  
 
-I’m a **Full-Stack Developer** and **competitive programmer** with strong foundations in **Data Structures & Algorithms**, modern web technologies, and scalable system design.  
+I am a passionate **Full-Stack Developer** and **Competitive Programmer** dedicated to building high-performance, scalable web applications. I thrive on solving complex algorithmic challenges and architecting efficient system designs.
 
 ---
 
 ## 🔧 Tech Stack  
 
 **Languages:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff) ![GO](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=radix-ui&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=radix-ui&logoColor=fff)  
 
 **Backend:**  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
@@ -29,17 +29,42 @@ I’m a **Full-Stack Developer** and **competitive programmer** with strong foun
  
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Harish-Naruto&theme=github-dark-blue)](https://git.io/streak-stats) ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-Naruto&theme=github_dark) 
-![Top lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-Naruto&theme=github_dark)
+<div align="center">
+
+<table border="0">
+
+<tr>
+
+<td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-Naruto&theme=github_dark" width="100%" alt="Top Languages" />
+
+
+</td>
+
+<td>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-Naruto&theme=github_dark" alt="GitHub Stats" />
+
+</td>
+
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Harish-Naruto&theme=github-dark-blue" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 
-## 🌱 Currently Exploring  
+## 🌱 Currently Exploring
 
-- ⚡ Building scalable **real-time apps** (WebRTC, WebSockets, Distributed Systems)  
-- 📚 Mastering **System Design & Advanced DSA**  
-- 🤝 Open-source collaboration
+- 🔭 **Real-time Distributed Systems:** Deep diving into WebRTC and advanced Socket.io patterns.
+- 🐹 **Golang Ecosystem:** Building high-concurrency microservices with Go.
+- 🏗️ **System Design:** Studying high-level architectural patterns for multi-million user apps.
+- 🏅 **Advanced DSA:** Constantly refining problem-solving skills on LeetCode and CodeChef.
 
 ---
 
