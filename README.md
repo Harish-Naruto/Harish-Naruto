@@ -74,3 +74,6 @@ I am a passionate **Full-Stack Developer** and **Competitive Programmer** dedica
  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/u/leandraw005/)  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/mr_forgotten)
 
 ---
+<p align="center">
+<i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
