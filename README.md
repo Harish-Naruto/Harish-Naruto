@@ -30,29 +30,42 @@
 
 ## Tech Stack
 
-**Languages**
+Day to day: **Go**, **gRPC**, **Protocol Buffers**, **PostgreSQL** and **Redis**.
 
-<img src="https://skillicons.dev/icons?i=go,cpp,ts,js,py" alt="Go, C++, TypeScript, JavaScript, Python" />
-
-**Backend &amp; Services**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun" alt="Node.js, Express, Bun" />
-
-gRPC · Protocol Buffers · Buf · Gin · GORM · WebSockets
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind CSS, Vite" />
-
-**Data &amp; Storage**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma" alt="PostgreSQL, Redis, Supabase, Prisma" />
-
-**Tooling &amp; Infra**
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,cloudflare,pnpm" alt="Docker, Git, Linux, Cloudflare, pnpm" />
-
-Turborepo · Make
+<table>
+  <tr>
+    <td valign="top"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,cpp,ts,js" alt="Go, C++, TypeScript, JavaScript" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend &amp; Services</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun" alt="Node.js, Express, Bun" /><br/>
+      <img src="https://img.shields.io/badge/gRPC-4B5563?style=for-the-badge" alt="gRPC" />
+      <img src="https://img.shields.io/badge/Protobuf-4B5563?style=for-the-badge" alt="Protocol Buffers" />
+      <img src="https://img.shields.io/badge/Buf-4B5563?style=for-the-badge" alt="Buf" />
+      <img src="https://img.shields.io/badge/Gin-4B5563?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
+      <img src="https://img.shields.io/badge/GORM-4B5563?style=for-the-badge" alt="GORM" />
+      <img src="https://img.shields.io/badge/WebSockets-4B5563?style=for-the-badge" alt="WebSockets" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Data &amp; Storage</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma" alt="PostgreSQL, Redis, Supabase, Prisma" /></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Tooling &amp; Infra</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,pnpm" alt="Docker, Linux, Cloudflare, pnpm" /><br/>
+      <img src="https://img.shields.io/badge/Turborepo-4B5563?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+      <img src="https://img.shields.io/badge/Make-4B5563?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind CSS, Vite" /></td>
+  </tr>
+</table>
 
 ## GitHub
 
