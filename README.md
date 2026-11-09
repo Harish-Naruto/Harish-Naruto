@@ -27,61 +27,6 @@
   <img src="https://www.gitskins.com/api/section/pet-device?username=Harish-Naruto&mode=dark" alt="My GitHub contribution pet" />
 </picture>
 
-## Projects
-
-### [Distributed Workflow Engine](https://github.com/Harish-Naruto/Distributed-Workflow-Engin)
-
-*Go · gRPC · PostgreSQL*
-
-Workflow orchestrator where pipelines are declared as DAGs in YAML. A coordinator parses and
-validates the graph, detects cycles, persists state, and dispatches ready tasks to stateless
-workers over bidirectional gRPC streams, so the control plane and data plane scale independently.
-
-<!-- TODO screenshot: architecture diagram or a terminal capture of a DAG run -->
-
-### [Space Striker](https://github.com/Harish-Naruto/Space-Striker-Server)
-
-*Go · Gin · Gorilla WebSocket · Redis*
-
-Real-time multiplayer Battleship backend on a clean-architecture layout. HTTP handles room
-creation, then the connection upgrades to WebSockets for gameplay. Redis holds game state and
-drives turn timeouts through Pub/Sub.
-
-**[▶ Play it live](https://space-striker-client.harishnarote7.workers.dev/)**
-
-<!-- TODO screenshot: a game in progress -->
-
-### [Code Collab](https://github.com/Harish-Naruto/code-collab)
-
-*TypeScript · Yjs · Turborepo · Supabase*
-
-Collaborative code editor: several people editing at once with live cursors, backed by Yjs CRDTs.
-Four services (API, WebSocket, Yjs, frontend) in a pnpm + Turborepo monorepo, Dockerised end to end.
-
-<!-- TODO screenshot or GIF: two cursors editing the same file -->
-
-### [UUID Generator](https://github.com/Harish-Naruto/UUID_Generator)
-
-*Go · gRPC*
-
-Snowflake-style 64-bit IDs served over gRPC: 41-bit timestamp, 10-bit worker identity, 12-bit
-per-millisecond sequence, with a concurrency-safe counter.
-
-### [URL Shortener](https://github.com/Harish-Naruto/URL-Shortener)
-
-*Go · Gin · GORM · PostgreSQL*
-
-Base62 link shortener where seven characters cover roughly 3.5 trillion URLs. HTTP API plus a
-minimal landing page.
-
-### [gRPC Streaming Patterns](https://github.com/Harish-Naruto/gRPC_method_Implementation)
-
-*Go · gRPC · Buf*
-
-All four RPC modes, unary, server-stream, client-stream and bidirectional, written out as a
-working reference.
-
-C++ problem solving lives in [DSAL](https://github.com/Harish-Naruto/DSAL), Go fundamentals in [golang](https://github.com/Harish-Naruto/golang).
 
 ## Tech Stack
 
