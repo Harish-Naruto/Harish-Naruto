@@ -1,79 +1,135 @@
-# Hi there, I'm Harish Narote 👋  
+<h1 align="center">Harish Narote</h1>
 
-### 🚀 Full-Stack Developer | 💡 Competitive Programmer | ⚡ Tech Enthusiast  
-
-I am a passionate **Full-Stack Developer** and **Competitive Programmer** dedicated to building high-performance, scalable web applications. I thrive on solving complex algorithmic challenges and architecting efficient system designs.
-
----
-
-## 🔧 Tech Stack  
-
-**Languages:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff) ![GO](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=radix-ui&logoColor=fff)  
-
-**Backend:**  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-   ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=swagger&logoColor=fff)  ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=fff)  ![Yjs](https://img.shields.io/badge/-Yjs-6C63FF?style=for-the-badge&logo=databricks&logoColor=fff)  
-
-**Databases & Storage:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)  ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)  ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=fff)  
-
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)  ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)  ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff)  ![Bun](https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=fff)  
-
-
----
- 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<table border="0">
-
-<tr>
-
-<td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-Naruto&theme=github_dark" width="100%" alt="Top Languages" />
-
-
-</td>
-
-<td>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-Naruto&theme=github_dark" alt="GitHub Stats" />
-
-</td>
-
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Harish-Naruto&theme=github-dark-blue" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-</div>
-
----
-
-
-## 🌱 Currently Exploring
-
-- 🔭 **Real-time Distributed Systems:** Deep diving into WebRTC and advanced Socket.io patterns.
-- 🐹 **Golang Ecosystem:** Building high-concurrency microservices with Go.
-- 🏗️ **System Design:** Studying high-level architectural patterns for multi-million user apps.
-- 🏅 **Advanced DSA:** Constantly refining problem-solving skills on LeetCode and CodeChef.
-
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/harish-narote-600717339) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:harishnarote7@gmail.com)
- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=fff)](https://leetcode.com/u/leandraw005/)  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=fff)](https://www.codechef.com/users/mr_forgotten)
-
----
 <p align="center">
-<i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <b>Backend &amp; Distributed Systems</b> · Go · gRPC · System Design
 </p>
+
+<p align="center">
+  I build services meant to survive production, and solve problems in C++ for fun.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harish-narote-600717339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harishnarote7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://leetcode.com/u/leandraw005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/mr_forgotten"><img src="https://img.shields.io/badge/CodeChef-4B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
+
+## About
+
+- I write **Go** for backend and distributed infrastructure: gRPC services, workflow orchestration, and real-time game servers.
+- I learn **system design by building it**: control-plane / data-plane splits, DAG scheduling, Redis-backed state, and failure handling that actually gets exercised.
+- Full-stack when a project calls for it, with **TypeScript**, React, and Turborepo monorepos.
+- **Competitive programming in C++** on LeetCode and CodeChef.
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pet-device?username=Harish-Naruto&mode=light" />
+  <img src="https://www.gitskins.com/api/section/pet-device?username=Harish-Naruto&mode=dark" alt="My GitHub contribution pet" />
+</picture>
+
+## Projects
+
+### [Distributed Workflow Engine](https://github.com/Harish-Naruto/Distributed-Workflow-Engin)
+
+*Go · gRPC · PostgreSQL*
+
+Workflow orchestrator where pipelines are declared as DAGs in YAML. A coordinator parses and
+validates the graph, detects cycles, persists state, and dispatches ready tasks to stateless
+workers over bidirectional gRPC streams, so the control plane and data plane scale independently.
+
+<!-- TODO screenshot: architecture diagram or a terminal capture of a DAG run -->
+
+### [Space Striker](https://github.com/Harish-Naruto/Space-Striker-Server)
+
+*Go · Gin · Gorilla WebSocket · Redis*
+
+Real-time multiplayer Battleship backend on a clean-architecture layout. HTTP handles room
+creation, then the connection upgrades to WebSockets for gameplay. Redis holds game state and
+drives turn timeouts through Pub/Sub.
+
+**[▶ Play it live](https://space-striker-client.harishnarote7.workers.dev/)**
+
+<!-- TODO screenshot: a game in progress -->
+
+### [Code Collab](https://github.com/Harish-Naruto/code-collab)
+
+*TypeScript · Yjs · Turborepo · Supabase*
+
+Collaborative code editor: several people editing at once with live cursors, backed by Yjs CRDTs.
+Four services (API, WebSocket, Yjs, frontend) in a pnpm + Turborepo monorepo, Dockerised end to end.
+
+<!-- TODO screenshot or GIF: two cursors editing the same file -->
+
+### [UUID Generator](https://github.com/Harish-Naruto/UUID_Generator)
+
+*Go · gRPC*
+
+Snowflake-style 64-bit IDs served over gRPC: 41-bit timestamp, 10-bit worker identity, 12-bit
+per-millisecond sequence, with a concurrency-safe counter.
+
+### [URL Shortener](https://github.com/Harish-Naruto/URL-Shortener)
+
+*Go · Gin · GORM · PostgreSQL*
+
+Base62 link shortener where seven characters cover roughly 3.5 trillion URLs. HTTP API plus a
+minimal landing page.
+
+### [gRPC Streaming Patterns](https://github.com/Harish-Naruto/gRPC_method_Implementation)
+
+*Go · gRPC · Buf*
+
+All four RPC modes, unary, server-stream, client-stream and bidirectional, written out as a
+working reference.
+
+C++ problem solving lives in [DSAL](https://github.com/Harish-Naruto/DSAL), Go fundamentals in [golang](https://github.com/Harish-Naruto/golang).
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,cpp,ts,js,py" alt="Go, C++, TypeScript, JavaScript, Python" />
+
+**Backend &amp; Services**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun" alt="Node.js, Express, Bun" />
+
+gRPC · Protocol Buffers · Buf · Gin · GORM · WebSockets
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind CSS, Vite" />
+
+**Data &amp; Storage**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma" alt="PostgreSQL, Redis, Supabase, Prisma" />
+
+**Tooling &amp; Infra**
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,cloudflare,pnpm" alt="Docker, Git, Linux, Cloudflare, pnpm" />
+
+Turborepo · Make
+
+## GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-Naruto&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-Naruto&theme=github_dark" alt="Stars, commits, pull requests and issues" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish-Naruto&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish-Naruto&theme=github_dark" alt="Languages by commit volume" />
+</picture>
+
+## Currently Learning
+
+- **Distributed systems**: consensus, fault tolerance, and execution semantics under partial failure.
+- **Retries and idempotency**, and what "exactly once" actually costs.
+- **Production concerns**: backpressure, observability, and graceful degradation.
+- **Go in depth**: concurrency patterns, context propagation, and testing discipline.
+
+## Get in touch
+
+Open to backend and distributed systems work. The fastest way to reach me is
+[LinkedIn](https://linkedin.com/in/harish-narote-600717339) or
+[harishnarote7@gmail.com](mailto:harishnarote7@gmail.com).
